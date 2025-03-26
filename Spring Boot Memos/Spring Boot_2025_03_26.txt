@@ -1,0 +1,95 @@
+Spring Boot_2025_03_26(수)
+
+JSP -> Spring 
+아직까지 현업에서 많이 함.
+
+Spring boot -> 
+model1
+model2 - mvc
+
+Spring Boot 개요 및 환경설정
+intelyJ
+고급시스템 환경 설정 -> 환경변수 -> 시스템 변수 새로만들기
+Lombok
+spring boot devtools
+spring web
+mybatis framework
+mysql driver
+
+gradle
+
+
+static > css나 image파일을 둔다
+static이 정적인 요소의 디폴트값
+
+
+테스트 로 확인
+
+MyBatis (하단에 한국어)
+시작하기(좌측) 매핑된 SQL 구문 살펴보기
+복사 ->  resources > mappers > BoardMapper.xml (붙여놓기)
+
+○build.gradle(baoard01) 
+tomcat 추가
+jakarta 추가
+○applicaton.properties
+port
+database setting
+xml mapper location
+log setting
+view setting
+○DataSourceTest.java
+@SpringBootTest
+@Log4j2
+testDateSource
+insertTest
+○Board01ApplicationTests.java
+@SpringBootTest
+@Test
+○BoardDTO.java
+@Data
+@NoArgsContstructor
+@AllArgsConstructor
+public class BoardDTO
+○BoardMapper.xml
+
+sql
+○BoardMapper.java
+@Mapper
+
+
+
+
+
+
+
+controller
+
+SampleController.java
+
+
+
+
+환경설정 어려움은 버젼 매칭
+
+
+Spring Boot Mybatis 및 jsp 사용
+Thymeleaf 
+Spring Data JPA
+JPA 연관관계 설정
+Rest 방식 데이터 교환
+AOP와 트랜잭션
+파일 업로드---------------------> 기본
+
+Spring Boot Security
+API 서버와 JWT
+
+
+리액트 - 노드 js
+Spring - tomcat
+
+
+
+
+
+
